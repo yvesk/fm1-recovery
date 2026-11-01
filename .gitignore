@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+*.fwsc
+*.bin
+*.log
+backups/
+fm1-recovery-backups/
